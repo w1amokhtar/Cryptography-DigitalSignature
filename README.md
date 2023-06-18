@@ -14,7 +14,7 @@
 2- Digital Signature
 3- Main Class
 
-- Each method and part of the code is preceeded by a comment for clarity
+- Each method and part of the code is preceded by a comment for clarity
 - You can test the code with the files and folders in TestFilesFolders
  
-Feel free to edit the code and customize it to your preference :) 
+
